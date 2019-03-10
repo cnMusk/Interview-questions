@@ -7,6 +7,7 @@ import java.util.Map;
 
 /**
  * Created by liudan on 2019/3/10.
+ * 利用linkedHashMap 实现LRU
  */
 public class LRUMap<K,V> {
 
