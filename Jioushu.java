@@ -6,6 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * Created by liudan on 2019/3/10.
+ * 循环打印 奇偶 数
  */
 public class Jioushu {
 
